@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[Replace this link with the URL where your site is hosted, e.g., GitHub Pages]
+![GymMaster Preview](app_images/about.png)
 
 ## ✨ Key Features
 
