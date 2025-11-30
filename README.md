@@ -4,7 +4,12 @@
 
 ## 🚀 Live Demo
 
+![GymMaster Preview](app_images/home.png)
 ![GymMaster Preview](app_images/about.png)
+![GymMaster Preview](app_images/services.png)
+![GymMaster Preview](app_images/portfolio.png)
+![GymMaster Preview](app_images/contact.png)
+![GymMaster Preview](app_images/footer.png)
 
 ## ✨ Key Features
 
