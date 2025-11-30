@@ -21,7 +21,7 @@ This project is a purely **Frontend** application.
 
 * **HTML5:** For the fundamental structure of the website.
 * **CSS3:** Used for styling, layout, and achieving the responsive design.
-* **JavaScript (or Java if you used it for client-side functionality):** For any client-side interactivity, such as menu toggles or scroll animations.
+* **JavaScript:** For any client-side interactivity, such as menu toggles or scroll animations.
 
 > **Note on Backend:** This project is designed purely for the front end. There is **no database**, **no server-side code (like Python or Node.js)**, and the contact form/buttons currently serve as **visual placeholders** and only **refresh the page** when clicked.
 
