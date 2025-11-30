@@ -34,7 +34,7 @@ This project is a purely **Frontend** application.
 
 1.  **Clone the repository:**
     ```bash
-   git clone [https://github.com/AdamyoussefEg/responsive-personal-portfolio.git](https://github.com/AdamyoussefEg/responsive-personal-portfolio.git)
+   git clone https://github.com/AdamyoussefEg/responsive-personal-portfolio.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
