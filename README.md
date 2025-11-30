@@ -4,12 +4,16 @@
 
 ## 🚀 Live Demo
 
-![GymMaster Preview](app_images/home.png)
-![GymMaster Preview](app_images/about.png)
-![GymMaster Preview](app_images/services.png)
-![GymMaster Preview](app_images/portfolio.png)
-![GymMaster Preview](app_images/contact.png)
-![GymMaster Preview](app_images/footer.png)
+[Replace this text with the actual live URL once you set up GitHub Pages!]
+
+![Home Page Screenshot](app_images/home.png)
+![About Page Screenshot](app_images/about.png)
+![Services Page Screenshot](app_images/services.png)
+![Portfolio Page Screenshot](app_images/portfolio.png)
+![Contact Page Screenshot](app_images/contact.png)
+![Footer Screenshot](app_images/footer.png)
+
+---
 
 ## ✨ Key Features
 
@@ -19,6 +23,8 @@
 * **Showcase Sections:** Dedicated areas for **Services** (Web Development, Graphic Design, Digital Marketing) and a **Portfolio** gallery for the latest projects.
 * **Contact Form Placeholder:** A non-functional contact form (since it's a pure front-end project) with a clear call-to-action.
 * **Social Media Integration:** Links to popular platforms like Facebook, Twitter, and LinkedIn.
+
+---
 
 ## 🛠️ Technology Stack
 
@@ -30,18 +36,22 @@ This project is a purely **Frontend** application.
 
 > **Note on Backend:** This project is designed purely for the front end. There is **no database**, **no server-side code (like Python or Node.js)**, and the contact form/buttons currently serve as **visual placeholders** and only **refresh the page** when clicked.
 
+---
+
 ## ⚙️ How to Run Locally
 
-1.  **Clone the repository:**
-    ```bash
-   git clone https://github.com/AdamyoussefEg/responsive-personal-portfolio.git
-    ```
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/AdamyoussefEg/responsive-personal-portfolio.git](https://github.com/AdamyoussefEg/responsive-personal-portfolio.git)
+    ```
 2.  **Navigate to the project directory:**
     ```bash
     cd responsive-personal-portfolio
     ```
 3.  **Open in your browser:**
     Simply open the `index.html` file in your preferred web browser (e.g., double-click it).
+
+---
 
 ## 📄 License
 
